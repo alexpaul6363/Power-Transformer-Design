@@ -15,6 +15,6 @@ Layered drawing for easy editing (core, winding, tank).
 Prepared using AutoCAD 2021.
 
 # How to Use
-Download the repository or clone it: git clone https://github.com/username/Transformer-Design-AutoCAD.git
+Download the repository or clone it: https://github.com/alexpaul6363/Power-Transformer-Design
 Open Transformer.dwg in AutoCAD.
 If you don’t have AutoCAD, view Transfromer Drawing Images.zip
